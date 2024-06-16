@@ -1,0 +1,18 @@
+## Assignment name: ft_putstr
+
+### Expected files:
+- ft_putstr.c
+
+### Allowed functions:
+- write
+
+### Description:
+
+Escreva uma função que exiba uma string na saída padrão.
+
+O ponteiro passado para a função contém o endereço do primeiro caractere da string.
+
+Sua função deve ser declarada da seguinte forma:
+
+```c
+void	ft_putstr(char *str);
